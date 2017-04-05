@@ -1,0 +1,56 @@
+#one{
+    
+    background-color: white;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 100px;
+}
+#two{
+    
+    background-color: white;
+    position: absolute;
+    
+    left: 100px;
+    width: 500px;
+    
+    bottom: 50px;
+    top: 50px;
+    border: skyblue solid 2px;
+}
+#three{
+    
+    background-color: white;
+    position: absolute;
+    
+    right: 100px;
+    width: 500px;
+    
+    bottom: 50px;
+    top: 50px;
+    border: skyblue solid 2px;
+}
+#four{
+    background-color: white;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 50px;
+}
+#sub{
+    margin-left: 450px;
+    margin-top: 30px;
+}
+
+#r2,#r3,#r4,#r5,#r6,#r7,#r8,#r9,#r10{
+    display: none;
+}
+table{
+    border: skyblue solid 2px;
+    width: 500px;
+    
+}
+
+

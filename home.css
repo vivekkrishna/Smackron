@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+}
+#zero{
+    width: 1100px;
+    background-color: #e6e7d8;
+    border-color: #e6e7d8;
+    border-width: 1px; 
+    border-style: solid; 
+    margin: 0 auto;
+    height: auto;
+    }
+#one{
+/*    clear: both;*/
+    margin: 0 auto;
+    width: 1096px;
+    height: 30px;
+    background-color: white;
+    border-color: #e6e7d8;
+    border-width: 2px;
+    border-style: solid;
+        position: fixed;
+        z-index: 1000;
+}
+
+#two{
+    width: 196px;
+    float: left;
+    background-color: white;
+    border-color: #e6e7d8;
+    border-width: 2px;
+    border-style: solid;
+    height: auto;
+    position: relative;
+    top: 30px;
+    border-left-color: white;
+    border-bottom-color: white;
+}
+#three{
+    width: 696px;
+    float: left;
+    background-color: white;
+    border-color: #e6e7d8;
+    border-width: 2px;
+    border-style: solid;
+    border-left: 0;
+    height: auto;
+    position: relative;
+    top: 30px;
+    }
+#four{
+    width: 200px;
+    float: left;
+    background-color: white;
+   border-color: #e6e7d8;
+    border-width: 2px;
+    border-style: solid; 
+    border-left: 0;
+    height: auto;
+    position: relative;
+    top: 30px;
+    border-right-color: white;
+    border-bottom-color: white;
+    }
+    
+    #searchbar{
+        position: absolute;
+        top: 10px;
+        right: 200px;
+        margin: auto;
+        width: 350px;
+    }
+    body {
+	background-color: white;
+	color: black;
+}
+
+div {
+	/*padding-bottom: 10px;*/
+/*	background-color: white;
+	width: 180px;*/
+}
+div.sidemenus{
+    padding-top: 25px;
+    padding-left: 35px;
+}
+ul.menu {
+/*	display: none;*/
+	list-style-type: none;
+	margin-top: 5px;
+}
+
+a.menuLink {
+    padding: 5px;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+#txtHint{
+    margin: auto;
+    position: absolute;
+    z-index: 1;
+    top: 30px;
+    width: 333px;
+    right: 200px;  
+    max-height: 100px;
+    overflow: auto;
+border: 1 black solid;
+
+}
+
+#logo{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+ .borbot{border-bottom: 1px #e6e7d8 solid;} 

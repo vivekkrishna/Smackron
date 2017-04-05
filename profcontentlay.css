@@ -1,0 +1,71 @@
+*{
+  margin: 0px; 
+  padding: 0px;
+}
+a{
+    text-decoration: none;
+    
+}
+.wrapper{
+    width: 696px;
+    height: auto;
+    border: 1px solid #e7e6d8;
+    
+}
+.navbar{
+    width: 696px;
+    height: 25px;
+    /*background-image: url(../rough/images/TajMahal.jpg);*/
+    background-color: #e6e7d8;
+    background-repeat: repeat-x;
+    text-align: center;
+}
+.button a{
+    margin: auto;
+    float: left;
+    width: 100px;
+    height: 25px;
+    line-height: 22px;
+    color: #fff;
+    font-family: verdana;
+    font-size: 13px;
+    text-align: center;
+    
+}
+.button a:hover{
+    float: left;
+    width: 100px;
+    height: 25px;
+    line-height: 22px;
+    color: #fff;
+    font-family: verdana;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    background-image: url(../rough/images/button1.png);
+    background-repeat: repeat-x;
+}
+.button a:active{
+    background-color: black;
+    color: green;
+}
+.button a:visited{
+    background-color: black;
+    color: red;
+}
+
+.mainbody{
+    width: 696px;
+    height: auto;
+    font-family: verdana;
+    font-size: 11px; 
+    color: #515151; 
+}
+.footer{
+    width: 696px;
+    height: 25px;
+    /*background-image: url(../rough/images/TajMahal.jpg);*/
+    background-color: #e6e7d8;
+    background-repeat: repeat-x;
+    text-align: center;
+}

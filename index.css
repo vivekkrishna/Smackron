@@ -1,0 +1,44 @@
+#one{
+    position: absolute;
+    width: 100%;
+    height: 20%;
+    
+}
+#two{
+    position: absolute;
+    top: 20%;
+    width: 100%;
+    height: 70%;
+    
+}
+#twoone{
+    
+    width: 100%;
+    height: 15%;
+    background-color: wheat;
+}
+#twotwo{
+    
+    width: 70%;
+    
+    float: left;
+/*    background-color: burlywood;*/
+    
+    height: 85%;
+}
+#twothree{
+   
+    width: 30%;
+    float: left;
+    background-color: brown;
+    
+    height: 85%;
+}
+#three{
+    position: absolute;
+    bottom: 0;
+   background-color: blueviolet;
+   width: 100%;
+    height: 10%; 
+    background-color: whitesmoke;
+}
